@@ -2,7 +2,6 @@
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADvea-evelyn-moises-bezerra-074462262)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://niveaembezerra81@gmail.com)
 
 ![Nívea GitHub stats](https://github-readme-stats.vercel.app/api?username=niveaevelyn&show_icons=true&theme=radical)
 
