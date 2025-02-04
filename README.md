@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Nívea GitHub stats](https://github-readme-stats.vercel.app/api?username=niveaevelyn&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niveaevelyn)](https://github.com/niveaevelyn/github-readme-stats)
 
 ## Tecnologias
 
