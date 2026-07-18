@@ -1,4 +1,4 @@
-# 👾👩‍💻 Nívea Evelyn
+# 👾 Nívea Evelyn
 
 🎓 Estudante de Análise e Desenvolvimento de Sistema <br/> 
 🔐 Atualmente estudando Cybersecurity pela Cisco Networking Academy <br/>
